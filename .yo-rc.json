@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ru.kuramov.health",
+      "nativeLanguage": "ru"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "monolith",
+    "baseName": "TwentyOnePoints",
+    "packageName": "ru.kuramov.health",
+    "packageFolder": "ru/kuramov/health",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjBiMzc3ZjAyZjNiNmM4NWViZDI3ZjczYzNhNjQ3MmEyNzdmZjIxOTY1ODFjNDZlYjdmNTU3NWI4NmQ4NjBlMzkyMDBiZDBlYTM0MTJhNzViM2Q2MjZiNWY4NzU0OGVhODBmNmJmNTMzZDU3YTAwMjYwZTM1ZTYxNjg5ZTU2N2Y=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": ["gatling", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ru",
+    "languages": ["ru", "en"],
+    "blueprints": []
+  }
+}
